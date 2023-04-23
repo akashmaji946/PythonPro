@@ -47,3 +47,7 @@ A geat quote was brought to me by my teacher:
                                                  - Abraham Lincoln
 """
 
+# strings in python are immuatable
+# it means once created they can't be modified
+# we can apply string operations to create new string objects
+# we cant change the existing object in strings
